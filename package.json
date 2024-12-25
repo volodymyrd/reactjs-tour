@@ -1,0 +1,46 @@
+{
+  "name": "reactjs-tour",
+  "version": "0.0.1",
+  "description": "Tour of React",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodymyrd/reactjs-tour.git"
+  },
+  "author": "Volodymyr Dotsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodymyrd/reactjs-tour/issues"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.3",
+    "@types/react-dom": "^18.0.3",
+    "react": "^18.0.3",
+    "react-dom": "^18.0.3",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
