@@ -1,11 +1,12 @@
 import React from "react";
+import Gallery from "./components/Gallery";
 
 function App() {
-  return (
-    <>
-      Hello React!
-    </>
-  );
+    return (
+        <>
+            <Gallery/>
+        </>
+    );
 }
 
 export default App;

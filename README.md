@@ -1,6 +1,6 @@
 [Official Tour of React](https://react.dev/learn)
 
-1. Installation
+## Installation
 
 - Check Node is installed and Node version
 
@@ -28,3 +28,11 @@ npm install
 ```
 npm start
 ```
+
+1. [First Component](https://react.dev/learn/your-first-component)
+
+* React lets you create components, reusable UI elements for your app.
+* In a React app, every piece of UI is a component.
+* React components are regular JavaScript functions except:
+    - Their names always begin with a capital letter.
+    - They return JSX markup.
